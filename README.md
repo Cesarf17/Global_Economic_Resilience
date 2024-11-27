@@ -41,10 +41,10 @@ A deep dive into how major tourist destinations weathered economic storms! This 
 ## 📊 Sample Visualizations
 
 ### Tourism Receipts Impact
-![Tourism Receipts](outputs/tourism_receipts_comparison.png)
+Go to the Documentation folder and the tourism_receipts_comparison.png file is there
 
 ### Economic Impact
-![GDP Changes](outputs/percentage_changes.png)
+Go to the Documentation folder and the percentage_changes.png file is there
 
 ## 👨‍💻 Author
 * Cesar Frayre
