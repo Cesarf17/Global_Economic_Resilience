@@ -47,9 +47,7 @@ A deep dive into how major tourist destinations weathered economic storms! This 
 ![GDP Changes](outputs/percentage_changes.png)
 
 ## 👨‍💻 Author
-* [Your Name]
-* [LinkedIn]
-* [GitHub]
+* Cesar Frayre
 
 ## 🙏 Acknowledgments
 * World Development Indicators for the comprehensive dataset
